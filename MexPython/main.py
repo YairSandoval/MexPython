@@ -1,7 +1,7 @@
 '''
 Created on 03/09/2014
 
-@author: Sandoval
+@author: YairSandoval
 '''
 
 if __name__ == '__main__':
